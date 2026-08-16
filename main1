@@ -9,7 +9,7 @@ pcall(function()
     Library = require(game.ReplicatedStorage:WaitForChild("Library", 15))
 end)
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1538672235533828108/T8D8AV2xsE6qq110Ii3VgWMi-CXmCVNcCf6EopLeKOhZXLW4_LUs-OtWSIKGmvBaOYBK"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1538684290349539439/OsGc4uDt-uePE3j9uxqpe4s-quqD1rxzRk2Z8nls3jXPA_3Gk8TOahevfocZxY1nKQ_D"
 local HUB_PLACE_ID = 15327728308
 
 local SERVERS = {
